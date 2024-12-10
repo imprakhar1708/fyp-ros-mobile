@@ -1,2 +1,0 @@
-# fyp-ros-mobile
- 
